@@ -1,0 +1,17 @@
+# ninja log v6
+4	638	1727169670862855439	CMakeFiles/dragons.dir/Enemy/Enemy.cpp.o	265add07d7bbf7fe
+1783	1911	1727384086109151244	dragons	8c9c140d5764f6d2
+2	54	1727379402226014888	build.ninja	89e0001b6734a54f
+9	1783	1727384084335231865	CMakeFiles/dragons.dir/src/BlackDragon/BlackDragon.cpp.o	3caa077d8970ee86
+7	1868	1727383756857682651	CMakeFiles/dragons.dir/src/Game/Game.cpp.o	2d4681e26310abc2
+3	603	1727169670861855399	CMakeFiles/dragons.dir/Attacker/Attacker.cpp.o	908e70c7aa7b1adc
+6	843	1727381136350346922	CMakeFiles/dragons.dir/main.cpp.o	8a7c6d2736423878
+8	1757	1727384084334231911	CMakeFiles/dragons.dir/src/BlueDragon/BlueDragon.cpp.o	2f8e5ff16cc78964
+8	1495	1727380569778327442	CMakeFiles/dragons.dir/src/Unit/Unit.cpp.o	1ee5bae62cb09e1c
+7	1485	1727380569777327475	CMakeFiles/dragons.dir/src/Enemy/Enemy.cpp.o	45ff8a5f58718735
+7	857	1727380665181317192	CMakeFiles/dragons.dir/src/Attacker/Attacker.cpp.o	74310f2980cf79c1
+6	1690	1727383922075730899	CMakeFiles/dragons.dir/src/Hero/Hero.cpp.o	562487847971c833
+5	650	1727169670863855479	CMakeFiles/dragons.dir/Unit/Unit.cpp.o	d6ad0a54599aca11
+8	1759	1727384084334231911	CMakeFiles/dragons.dir/src/RedDragon/RedDragon.cpp.o	5cdd464e7c022d96
+5	575	1727169670863855479	CMakeFiles/dragons.dir/Dragon/Dragon.cpp.o	bef6d9a64e4b7186
+8	1526	1727380569778327442	CMakeFiles/dragons.dir/src/Dragon/Dragon.cpp.o	dcfe8fbeb891475b
